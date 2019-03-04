@@ -4,5 +4,5 @@ Based on work of https://github.com/aprosvetova/xiaomi-kettle read more about th
 Implemented in Python. Tested on python3.
 
 TODO:
-[/] Implement library - https://github.com/drndos/mikettle
-[ ] Implement home-assistant component
+* Implement library - https://github.com/drndos/mikettle
+* Implement home-assistant component
